@@ -5,3 +5,12 @@ Angular2使用router事件实现页面标题的动态变化。主体框架直接
 ## 版本信息
 
 angular 2.2.1
+
+## 运行
+
+```bash
+npm i
+npm start
+```
+
+浏览器打开`http://localhost:3000`。
