@@ -25,7 +25,7 @@
     "@angular/router": "~3.2.1",
     "@angular/upgrade": "~2.2.1",
     "angular2-in-memory-web-api": "0.0.21",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "core-js": "^2.4.1",
     "ie-shim": "^0.1.0",
     "reflect-metadata": "^0.1.3",
